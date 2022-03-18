@@ -1,8 +1,7 @@
-# Hello ! 👋
+# Oi ! 👋
 
 
 Hi, my name is _Marcos Felippe_. I'm a technology fan and electronic engineer graduated from the University of Brasilia. Because of college I have skills with embedded, microprocessed and microcontrolled systems. My first experience was with c++ and java, but today I used other languages like Python and JavaScript. 
-
 
 
 ### 📫 How to reach me?
@@ -10,11 +9,6 @@ Hi, my name is _Marcos Felippe_. I'm a technology fan and electronic engineer gr
 - [Instagram](https://www.instagram.com/mfelippe_/)
 - mfelippe.bsb@hotmail.com
 
-
-
-
-
-<img src="stats.gif" width="90%"><br/><br/>
 
 ***
 
