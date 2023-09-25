@@ -5,11 +5,10 @@ Hi, my name is _Marcos Felippe_. I'm a technology fan and electronic engineer gr
 
 
 ### 📫 How to reach me?
-- [CV](https://mfelippeserver.herokuapp.com/)
+- [CV](#)
 - [LinkedIn](https://www.linkedin.com/in/marcos-felippe-alves-4b483719a/) 
 - [Instagram](https://www.instagram.com/mfelippe_/)
 - mfelippe.bsb@hotmail.com
-- [GITLAB](https://gitlab.com/mfelippe)
 
 
 ***
