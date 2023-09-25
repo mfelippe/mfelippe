@@ -1,4 +1,4 @@
-# Oi ! 👋
+# Hello! 👋
 
 
 Hi, my name is _Marcos Felippe_. I'm a technology fan and electronic engineer graduated from the University of Brasilia. Because of college I have skills with embedded, microprocessed and microcontrolled systems. My first experience was with c++ and java, but today I used other languages like Python and JavaScript/Typescript. 
