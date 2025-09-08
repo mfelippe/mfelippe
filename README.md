@@ -1,8 +1,7 @@
 # Hello! 👋
 
 
-Hi, my name is _Marcos Felippe_. I'm a technology fan and electronic engineer graduated from the University of Brasilia. Because of college I have skills with embedded, microprocessed and microcontrolled systems. My first experience was with c++ and java, but today I used other languages like Python and JavaScript/Typescript. 
-
+Hi, my name is Marcos Felippe. I’m passionate about technology and hold a degree in Electronic Engineering from the University of Brasília, as well as a postgraduate degree in Software Architecture. Throughout my academic and professional journey, I have built strong expertise in embedded systems, microprocessor and microcontroller technologies. My programming career began with C++ and Java, and today I mainly work with JavaScript/TypeScript and Go.
 
 ### 📫 How to reach me?
 - [CV](#)
